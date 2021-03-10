@@ -8,7 +8,7 @@ Features
 * 120 Tranformation Functions, assignable to combo keys
 * 20 PowerTools, assignable to combo keys
 
-💫 Get it at https://clipboardplaintextpowertool.blogspot.com/ 	👍👍👍👍👍
+💫 Get it at https://clipboardplaintextpowertool.blogspot.com/ 	👍
 
 Usage by Job Role
 
